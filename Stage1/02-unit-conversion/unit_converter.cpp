@@ -1,18 +1,3 @@
-/*
-=============================================================
-  PROJECT 2 — UNIT CONVERTER
-=============================================================
-
-  INPUT VALIDATION (required):
-    - Out of range menu     → error message, prompt again
-
-  DONE WHEN:
-    - All 3 categories convert correctly
-    - Invalid input never crashes the program
-    - Logic is split across functions, not dumped in main()
-=============================================================
-*/
-
 #include <iostream>
 #include <functional>
 #include <unordered_map>
