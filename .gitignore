@@ -2,4 +2,7 @@
 *.o
 *.obj
 *.out
+*.pdf
+.git/
 build/
+.clang-format

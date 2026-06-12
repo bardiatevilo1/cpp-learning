@@ -1,0 +1,8 @@
+-std=c++23
+-Wall
+-Weffc++
+-Wextra
+-Wconversion
+-Wsign-conversion
+-Werror
+-pedantic-errors
