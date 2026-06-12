@@ -1,11 +1,3 @@
-/*
- * Stretch goals:
- *   - Polar form constructor: Complex(r, theta, polar_tag)
- *   - Static factory:         Complex::from_polar(r, theta)
- *   - Verify Euler's identity: exp(i*pi) + 1 == 0 (within epsilon)
- *   - DFT toy example using your class (foreshadows Fourier work)
- */
-
 #include <cmath>
 #include <iostream>
 #include <numbers>

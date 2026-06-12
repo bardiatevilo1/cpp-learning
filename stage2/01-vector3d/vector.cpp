@@ -49,3 +49,5 @@ class Vector3D {
 		return V * c;
 	}
 };
+
+int main() { return 0; }
